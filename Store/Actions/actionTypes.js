@@ -1,0 +1,4 @@
+export const SET_PRODUCTS = "SET_PRODUCTS";
+export const SEARCH_PRODUCTS = "SEARCH_PRODUCTS";
+export const UI_START_LOADING = "UI_START_LOADING";
+export const UI_STOP_LOADING = "UI_STOP_LOADING";
